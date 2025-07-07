@@ -1,2 +1,2 @@
-# BirthdaywishBud
-For Buddy
+# Birthdaywish
+For friend
